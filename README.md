@@ -1,1 +1,3 @@
-# amoCRM-Welbex
+Тестовое задание: amoCRM-Welbex
+Версию сайта, созданного мной в рамках тестового задания можно посмотреть [здесь!](https://masha-muraveva.github.io/amoCRM-Welbex/)
+Достаточно просто кликнуть!
